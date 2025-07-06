@@ -20,7 +20,7 @@ title                    : "Diego Carmona"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Diego Carmona"
-description              : "Cátedra Conacyt"
+description              : "Investigador por México"
 url                      : # the base hostname & protocol for your site e.g. "https://DiegoCmb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "DiegoCmb/DiegoCmb.github.io"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Diego Carmona"
+  name             : "Diego Carmona Moreno Bello"
   avatar           : "/assets/images/Diego_Carmona_1.jpg"
   bio              : "Cátedra Conacyt, Universidad Autónoma de Yucatán, CCBA, Depto. Ecología Tropical"
   location         : "Mérida, Yucatán"
