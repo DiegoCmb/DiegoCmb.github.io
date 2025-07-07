@@ -20,7 +20,7 @@ title                    : "Diego Carmona"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Diego Carmona"
-description              : "Investigador por México"
+description              : "INVESTIGADORpor México"
 url                      : # the base hostname & protocol for your site e.g. "https://DiegoCmb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "DiegoCmb/DiegoCmb.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Diego Carmona Moreno Bello"
   avatar           : "/assets/images/Diego_Carmona_1.jpg"
-  bio              : "Investigador por México !!!, Universidad Autónoma de Yucatán, CCBA, Depto. Ecología Tropical"
+  bio              : "INVESTIGADORpor México, Universidad Autónoma de Yucatán, CCBA, Depto. Ecología Tropical"
   location         : "Mérida, Yucatán"
   email            : "diego.carmona@correo.uady.mx"
   links:
